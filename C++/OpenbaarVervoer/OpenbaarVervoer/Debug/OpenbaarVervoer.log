@@ -1,0 +1,13 @@
+﻿  Train.cpp
+  main.cpp
+d:\school\inoop\inoop\les7\openbaarvervoer\openbaarvervoer\main.cpp(22): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\school\inoop\inoop\les7\openbaarvervoer\openbaarvervoer\main.cpp(23): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\school\inoop\inoop\les7\openbaarvervoer\openbaarvervoer\main.cpp(24): warning C4305: 'argument': truncation from 'double' to 'const float'
+  QuickTrain.cpp
+  Ticket.cpp
+  TicketNoAllowance.cpp
+  TicketWithAllowance.cpp
+  Vehicle.cpp
+  VeryQuickTrain.cpp
+  Generating Code...
+  OpenbaarVervoer.vcxproj -> D:\SCHOOL\INOOP\INOOP\Les7\OpenbaarVervoer\Debug\OpenbaarVervoer.exe

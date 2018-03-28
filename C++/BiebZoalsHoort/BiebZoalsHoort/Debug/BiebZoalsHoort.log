@@ -1,0 +1,6 @@
+﻿  Bibliotheek.cpp
+d:\school\inoop\inoop\les5\biebzoalshoort\biebzoalshoort\bibliotheek.cpp(22): warning C4018: '<': signed/unsigned mismatch
+d:\school\inoop\inoop\les5\biebzoalshoort\biebzoalshoort\bibliotheek.cpp(50): warning C4018: '<': signed/unsigned mismatch
+d:\school\inoop\inoop\les5\biebzoalshoort\biebzoalshoort\bibliotheek.cpp(63): warning C4018: '<': signed/unsigned mismatch
+d:\school\inoop\inoop\les5\biebzoalshoort\biebzoalshoort\bibliotheek.cpp(72): warning C4018: '<': signed/unsigned mismatch
+  BiebZoalsHoort.vcxproj -> D:\SCHOOL\INOOP\INOOP\Les5\BiebZoalsHoort\Debug\BiebZoalsHoort.exe
